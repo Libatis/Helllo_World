@@ -1,2 +1,2 @@
 # Helllo_World
-First time making repository
+First time making a repository
